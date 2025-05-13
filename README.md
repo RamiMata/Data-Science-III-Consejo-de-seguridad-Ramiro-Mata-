@@ -1,0 +1,1 @@
+Hola soy Ramiro Mata, y aca esta el proyecto sobre los discursos en una reuinion del consejo de seguridad sobre la situación en Oriente Medio, incluida la cuestión palestina en la que se encuentra la documentacion en formato pdf y el codigo en .ipynb. Aca esta el codigo en el colab:https://colab.research.google.com/drive/1wUSotqsFgI8J8xqfm2vAi3gXKv3xHX3k?usp=sharing
